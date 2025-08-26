@@ -206,4 +206,4 @@ Error responses include JSON with error details:
 
 ## License
 
-This project is a proof-of-concept and is provided as-is for educational purposes. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
